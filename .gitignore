@@ -1,0 +1,27 @@
+node_modules/
+
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+
+# Windows files
+Thumbs.db
+
+# Vim swap files
+*.swp
+
+# Sublime Text workspace files
+*.sublime-workspace
+*.sublime-project
+
+# VS Code settings
+.vscode/
+
+
+# npm debug logs
+npm-debug.log
