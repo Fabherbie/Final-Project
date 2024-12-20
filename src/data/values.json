@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "FaHeart",
+    "title": "Passion",
+    "details": "Fostering a love for learning and self-expression."
+  },
+  {
+    "icon": "GiPlantSeed",
+    "title": "Growth",
+    "details": "Helping kids develop mentally, emotionally, and physically."
+  },
+  {
+    "icon": "FaUsers",
+    "title": "Inclusivity",
+    "details": "Ensuring every child feels welcome and valued."
+  },
+  {
+    "icon": "FaTrophy",
+    "title": "Excellence",
+    "details": "Offering quality programs that deliver lasting results."
+  }
+]

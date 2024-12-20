@@ -1,0 +1,28 @@
+[
+  {
+    "icon": "FaGraduationCap",
+    "title": "Comprehensive Programs for Every Child",
+    "details": "Creative Arts, Athletics, and Academics including Ballet, Football, Robotics, and more."
+  },
+  {
+    "icon": "FaRegCalendarAlt",
+    "title": "Flexible Learning Options",
+    "details": "Choose between physical or online classes tailored to your family’s needs."
+  },
+
+  {
+    "icon": "FaStar",
+    "title": "Tailored Skill Levels",
+    "details": "Programs for all skill levels, including beginner, intermediate, advanced, and personalized coaching."
+  },
+  {
+    "icon": "FaUserGraduate",
+    "title": "Expert Instructors Who Care",
+    "details": "Certified professionals with experience in skill-building, fostering creativity, and boosting confidence."
+  },
+  {
+    "icon": "FaLeaf",
+    "title": "A Holistic Approach",
+    "details": "Combining academic, artistic, and athletic programs for well-rounded development."
+  }
+]

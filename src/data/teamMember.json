@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Omolola Remi",
+    "role": "Ballet Instructor",
+    "image": "image4", 
+    "quote": "Dancing isn’t just about movements—it’s about expressing who you are.",
+    "bio": "Professional dancer with over a decade of experience in classical and contemporary ballet."
+  },
+  {
+    "name": "Emeka Okafor",
+    "role": "Football Coach",
+    "image": "image2",
+    "quote": "Teamwork, discipline, and passion are the skills every child needs to succeed.",
+    "bio": "8+ years of coaching experience, training young athletes and leading teams to championships."
+  },
+  {
+    "name": "John Smith",
+    "role": "Music Teacher",
+    "image": "image3", 
+    "quote": "Music is the language of the soul. My goal is to help children connect with that language.",
+    "bio": "Accomplished pianist and composer with 12 years of teaching experience."
+  },
+  {
+    "name": "Adebola Johnson",
+    "role": "Voice Coach",
+    "image": "image6", 
+    "quote": "Every voice is special. My mission is to help children discover theirs.",
+    "bio": "Professional vocal coach with students who have performed in national competitions."
+  },
+  {
+    "name": "Jedidiah Adufe",
+    "role": "Basketball Trainer",
+    "image": "image5", 
+    "quote": "Basketball isn’t just a sport; it’s a way to teach resilience, focus, and teamwork.",
+    "bio": "5+ years of experience training kids in fundamental and advanced basketball techniques."
+  },
+  {
+    "name": "Olamide Abayomi",
+    "role": "Robotics and STEM Instructor",
+    "image": "image1",
+    "quote": "Building robots is building the future. I’m here to guide kids on their exciting journey.",
+    "bio": "Robotics engineer with 7 years of teaching experience in programming and robotics."
+  },
+  {
+    "name": "Anthony Emmanuel",
+    "role": "Math Decathlon Coach",
+    "image": "image7", 
+    "quote": "Math isn’t just numbers—it’s a game of logic and creativity.",
+    "bio": "Certified math educator who has trained students for state and national-level competitions."
+  },
+  {
+    "name": "Amidat Adenekan",
+    "role": "Spelling Bee Mentor",
+    "image": "image8", 
+    "quote": "Words are powerful tools. My goal is to help kids master them with confidence.",
+    "bio": "Spelling bee coach with 6 years of experience, focusing on vocabulary and stage presence."
+  }
+]

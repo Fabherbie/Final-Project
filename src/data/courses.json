@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Ballet for Beginners",
+    "description": "Learn grace, posture, and coordination through classical ballet techniques.",
+    "category": "Creative Arts",
+    "duration": "60 minutes per session",
+    "age": "4–16 years",
+    "levels": ["Bronze", "Silver", "Gold", "Premium"]
+  },
+  {
+    "id": 2,
+    "title": "Music Mastery",
+    "description": "From piano to guitar, our music classes nurture creativity and technical skill.",
+    "category": "Creative Arts",
+    "duration": "45 minutes per session",
+    "age": "4–16 years",
+    "levels": ["Bronze", "Silver", "Gold", "Premium"]
+  },
+  {
+    "id": 3,
+    "title": "Robotics Innovation",
+    "description": "Learn to code, build, and innovate in our exciting robotics classes.",
+    "category": "Academics",
+    "duration": "60 minutes per session",
+    "age": "6–16 years",
+    "levels": ["Bronze", "Silver", "Gold", "Premium"]
+  },
+  {
+    "id": 4,
+    "title": "Football Training",
+    "description": "Learn teamwork, strategy, and discipline through structured football training.",
+    "category": "Sports",
+    "duration": "90 minutes per session",
+    "age": "8–16 years",
+    "levels": ["Bronze", "Silver", "Gold"]
+  },
+  {
+    "id": 5,
+    "title": "Swimming Basics",
+    "description": "Build water confidence and advanced swimming techniques.",
+    "category": "Sports",
+    "duration": "60 minutes per session",
+    "age": "6–14 years",
+    "levels": ["Bronze", "Silver", "Gold"]
+  },
+  {
+    "id": 6,
+    "title": "Math Decathlon Prep",
+    "description": "Prepare your child for math challenges with fun and engaging problem-solving techniques.",
+    "category": "Academics",
+    "duration": "50 minutes per session",
+    "age": "6–16 years",
+    "levels": ["Bronze", "Silver", "Gold"]
+  },
+  {
+    "id": 7,
+    "title": "Spelling Bee Mastery",
+    "description": "Build vocabulary, confidence, and stage presence to ace spelling bees.",
+    "category": "Academics",
+    "duration": "45 minutes per session",
+    "age": "8–16 years",
+    "levels": ["Bronze", "Silver", "Gold"]
+  }
+]
