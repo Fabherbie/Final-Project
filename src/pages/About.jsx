@@ -60,7 +60,7 @@ const About = () => {
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="absolute inset-0 flex justify-center items-center text-center text-white">
           <h1 className="font-bold text-4xl md:text-5xl">
-            Empowering Young Minds Through <br /> <br /> Creativity, Sports, and
+            Empowering Young Minds Through <br /> Creativity, Sports, and
             Academics!
           </h1>
         </div>
@@ -97,13 +97,12 @@ const About = () => {
           <div className="gap-12 grid md:grid-cols-2 lg:grid-cols-3">
             {features.map((feature, idx) => (
               <div key={idx} className="bg-gray-100 shadow-lg p-6 rounded-lg">
-                {/* Fixed Size Icon Section */}
                 <div className="flex justify-center mb-4">
                   <div className="bg-white shadow-md p-3 rounded-full">
                     {iconMapping[feature.icon] ? (
                       React.cloneElement(iconMapping[feature.icon], {
                         size: 40,
-                      }) // Set size to 40px
+                      })
                     ) : (
                       <p>No icon found</p>
                     )}

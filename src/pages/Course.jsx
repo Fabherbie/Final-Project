@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import coursesData from "../data/courses.json";
-import video from "../assets/videos/Ballet-Video.mp4";
 
 const Course = () => {
   const [courses, setCourses] = useState([]);

@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"; // For linking to other pages
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (

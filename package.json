@@ -16,7 +16,7 @@
     "tailwindcss",
     "react-router"
   ],
-  "author": "Your Name",
+  "author": "Olayinka Biobaku",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
