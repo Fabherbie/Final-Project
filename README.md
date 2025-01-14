@@ -77,14 +77,14 @@ Starling Academy is a modern, responsive website built to showcase educational c
 
 ### To Vercel
 
-1. I push  my code to a GitHub repository.
-2. Login to [Vercel](https://vercel.com/).
+1. I push my code to a GitHub repository.
+2. Login to Vercel(https://vercel.com/).
 3. Import the repository and follow the deployment steps.
 4. My application is live at my Vercel URL (https://final-project-chi-two.vercel.app/).
 
 ### To GitHub
 
-1. Initialized a Git repository 
+1. Initialized a Git repository
 
    ```bash
    git init
@@ -134,6 +134,7 @@ starling-academy/
 │   ├── App.js
 │   └── index.js
 ├── public/
+│   ├── favicon.svg
 │   └── index.html
 ├── .gitignore
 ├── package-lock.json
